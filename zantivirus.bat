@@ -23,3 +23,4 @@ goto start
 echo System sudah aman..!
 pause
 exit
+
